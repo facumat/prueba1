@@ -6,7 +6,7 @@ html, body {
 
 
 
-body { background: url("../img/bg.jpg") repeat 0 0;
+body { background: url("../bg.jpg") repeat 0 0;
     background-color: #805286;
   background-size: auto 100vh;
  }
